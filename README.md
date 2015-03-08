@@ -8,7 +8,7 @@ Overview
 Open Network Switch Library (OpenNSL) is a library of network switch APIs that
 is openly available for programming Broadcom network switch silicon based
 platforms.  OpenNSL is a software interface with a set of open APIs that enable
-the development of new applications on top of Broadcom StataXGS switches,
+the development of new applications on top of Broadcom StrataXGS switches,
 giving customers the flexibility to tailor their network equipment and meet
 their unique infrastructure requirements.
 
